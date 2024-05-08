@@ -1,4 +1,4 @@
-# Quizz Flemengo
+# Quizz Flamengo
 
 🔴⚫ Apresento meu mais recente projeto: o "Quizz do Flamengo"! 🔴⚫ 
 
