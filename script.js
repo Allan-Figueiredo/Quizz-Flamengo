@@ -146,7 +146,7 @@ const questions = [
   },
 
   {
-    "question": "Contra quem foi o jogo do primeiro mundial do Flamengo?",
+    "question": "Contra quem foi a final do primeiro mundial do Flamengo?",
     "answers": [
       {
         "answer": "Milan",
